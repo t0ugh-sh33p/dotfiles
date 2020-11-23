@@ -1,0 +1,11 @@
+# all ignore
+/*
+/.**
+
+# allow
+!/.gitignore
+!/.gitkeep
+!/.zshrc
+!/Makefile
+!/README.md
+!/scripts
